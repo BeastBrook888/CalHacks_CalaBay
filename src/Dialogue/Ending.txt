@@ -1,0 +1,8 @@
+Congratulations on completing our game! We hope you had a fun and educational experience.
+As you have journeyed through the game, you have learned the importance of protecting our planet and the environment. 
+We believe that small actions can make a big difference and we encourage you to take what you have learned and apply it in your daily lives.
+Remember to reduce, reuse, and recycle whenever possible. Plant trees, turn off lights when not in use, and conserve water. 
+These simple steps can have a significant impact on our environment and make the world a better place to live in.
+Credits:
+Colin Rondon (De Anza College '24) and Andrei Duque (SJSU '26): programmers
+Lauren Vo (De Anza College '24) and Angela Huynh (UC Berkeley '26): designers

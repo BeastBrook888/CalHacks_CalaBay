@@ -1,0 +1,18 @@
+turtle
+Hello there! Welcome back home! It's good to see you again.
+turtle
+You know, I'm a bit of a detective, and I noticed that some of your appliances might still be running.
+turtle
+Don't ask me how I know, I just have a hunch. But don't worry, I'm here to help you save the environment and some money too!
+turtle
+Are you ready to turn off those appliances?
+player
+Yes, let's do it! Which appliances do I need to turn off?
+turtle
+Well, each appliance that needs to be turned off will have a bubble with an exclamation mark on it.
+turtle
+When you click on it, you'll be taken to a mini-game.
+turtle
+Don't worry, I'll explain how to play each one before it starts. Complete all of the mini-games to clear this level.
+turtle
+Let's save some energy and money together!

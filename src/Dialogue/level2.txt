@@ -1,0 +1,28 @@
+goose
+Hello hello! Are you ready for some recycling fun? It's my favorite game!
+goose
+Look up in the sky - a bunch of items are falling from above!
+goose
+But don't worry, I have just the thing to catch them. Here, take this recycling bin.
+goose
+Your job is to catch as many recyclable items as you can. Got it?
+player
+Got it! What items can I catch?
+goose
+Well, you can catch the plastic bottles, tin cans, glass jars, and cardboard boxes.
+goose
+Those are all recyclable items that we can reuse to make new things.
+goose
+But be careful! Some items are not recyclable, so you want to avoid those. You don't want to contaminate the recycling process.
+goose
+So, avoid the plastic bags, pots and pans, light bulbs, and ceramic dishware. Those items cannot be recycled.
+goose
+Good luck!
+player
+Thanks for the tips, Goose! Let's get started!
+goose
+Good luck and have fun!
+goose
+Remember, the more recyclable items you catch, the better it is for our environment.
+goose
+Let's keep our town clean and green!
