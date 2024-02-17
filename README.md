@@ -1,5 +1,9 @@
 ## CalHacks April 2023 Hack Month Submission
 
+<p align="center">
+  <img src = "./Screenshots/CalHacks1.png"/>
+</p>
+
 A game, built in Java, that promotes environmental sustainability. _Created by Colin Rondon, Andrei Duque, Lauren Vo, and Angela Huynh._
 
 This game consists of _3 different levels_:\
